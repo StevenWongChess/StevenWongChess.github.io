@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Tour of C++ Notes"
+date:   2024-05-12
+categories: C++
+---
+
 ##### 1-The Basics
 
 ###### 1.1 Intro
